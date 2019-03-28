@@ -2,15 +2,28 @@
   "name": "crack.js",
   "version": "1.0.0",
   "description": "crack hash confusion js",
-  "bin": {
-    "crack": "crack.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Terry Cai",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "prettier-eslint": "^8.8.2"
-  }
+  },
+  "main": "crack.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icai/crack.js.git"
+  },
+  "keywords": [
+    "crack",
+    "hash",
+    "confusion",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/icai/crack.js/issues"
+  },
+  "homepage": "https://github.com/icai/crack.js#readme"
 }
