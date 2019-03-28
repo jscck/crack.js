@@ -14,7 +14,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icai/crack.js.git"
+    "url": "git+https://github.com/crackjsnow/crack.js.git"
   },
   "keywords": [
     "crack",
@@ -23,7 +23,7 @@
     "js"
   ],
   "bugs": {
-    "url": "https://github.com/icai/crack.js/issues"
+    "url": "https://github.com/crackjsnow/crack.js/issues"
   },
-  "homepage": "https://github.com/icai/crack.js#readme"
+  "homepage": "https://github.com/crackjsnow/crack.js#readme"
 }
