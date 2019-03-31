@@ -21,7 +21,7 @@ Just to crack this
 
 ## Step
 
-1.  http://blog.w3cub.com/tools/jspacker/
+1.  http://www.jsnice.org/
 
 2. -- This tool --
 
