@@ -12,7 +12,8 @@
   t[_0x27c8("0x4f")] = e[_0x27c8("0x4f")] || x[_0x27c8("0x4f")],
 ```
 
-https://obfuscator.io/
+https://obfuscator.io/   
+
 https://github.com/javascript-obfuscator/javascript-obfuscator
 
 Just to crack this
