@@ -3,7 +3,7 @@
 > Tool for javascript Encryption confusion cracking 
 
 
-## What the Fucking ?
+## What is this?
 
 ```js
   t[_0x27c8("0x71")] = x[_0x27c8("0x71")],
@@ -11,6 +11,7 @@
   t[_0x27c8("0x4d")] = x[_0x27c8("0x4d")],
   t[_0x27c8("0x4f")] = e[_0x27c8("0x4f")] || x[_0x27c8("0x4f")],
 ```
+try to use this project to recover the code.
 
 https://obfuscator.io/   
 
